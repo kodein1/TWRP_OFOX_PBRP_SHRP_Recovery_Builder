@@ -9,7 +9,6 @@ on:
         default: ''
         type: choice
         options:
-        - twrp-14.1
         - twrp-14
         - twrp-12.1
         - twrp-11
